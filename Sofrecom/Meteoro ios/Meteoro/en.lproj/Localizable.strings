@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Meteoro
+
+  Created by domiguel on 13/07/12.
+
+*/
+"Today" = "Today";
+"Tomorrow" = "Tomorrow";
+"LblActualizar" = "Updated: ";
+"TituloAgregarCiudad" = "Add City";
+
+
+/* Mensaje de errores */
+
+"ErrorCiudadDuplicada" = "You can not add the same city twice";
+"ErrorServidorNoDisponible" = "An error ocurred during the connection. Please try later.";
+
+/* Estados del tiempo */
+"cloudy" = "Cloudy";
+"partly cloudy" = "Partly cloudy";
+"clear" = "Clear";
+"showers" = "Showers";
+"fog" = "Fog";
+"scattered showers" = "Scattered showers";
+"windy" = "Windy";
+"snow" = "Snow";
+"storm" = "Storm";
+"snow rain" = "Snow rain";
